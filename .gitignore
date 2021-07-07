@@ -1,4 +1,10 @@
 lib/credentials/config.js
+amp.js
 node_modules
 config.js
-trash
+test.js
+.eslintrc.json
+.vscode
+data/aliases.json
+data/temp_api_restarting.txt
+data/temp_api_uptime.txt
